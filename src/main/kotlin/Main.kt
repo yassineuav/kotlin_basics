@@ -3,13 +3,11 @@ const val name: String = "Nana"
 var greeting: String? = "hello"
 
 fun main() {
-<<<<<<< HEAD
 
 }
 
 fun conditions(){
-=======
->>>>>>> origin/main
+
     if(name != null){
         print("name isn't null")
     }else{
