@@ -23,4 +23,6 @@ fun conditions(){
     println(name);
 
     val greetingToPrint = if(greeting != null) greeting else "Hi"
+    va testPr = "g"
+    print(g)
 }
